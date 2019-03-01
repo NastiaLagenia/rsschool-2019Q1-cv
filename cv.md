@@ -16,9 +16,11 @@ I use to work hard and learn at the same time because I agree with the quote fro
 - Java Script (including ES6 - ES8 features)
 - React 16
 - Bootstrap 4
-- SCSS
+- SASS
 - Webpack 4
 - Git (GitHub)
+- БЭМ
+- Photoshop
 
 ## Education
 I finished The Rolling Scopes School 2018-Q3.
@@ -30,6 +32,7 @@ My educational projects:
 
 ## English level
 A2
+I practice English while reading articles, watching videos and online courses. Also, I took lessons with a tutor and use Lingualeo application
 
 ## Code examples
 Table component from rss-mentor-dashboard
