@@ -1,7 +1,7 @@
 # Yuliya Miatlionak
 
 ## Contacts:
-  - email: metlenok.yulia@gmail.com
+  - email: <metlenok.yulia@gmail.com>
   - telegram: Yuliya_Metlenok
 
 ## Summary
@@ -36,7 +36,7 @@ I practice English while reading articles, watching videos and online courses. A
 
 ## Code examples
 Table component from rss-mentor-dashboard
-
+```
         import React from 'react';
         import propTypes from 'prop-types';
         import classes from './Table.module.css';
@@ -133,3 +133,4 @@ Table component from rss-mentor-dashboard
         };
 
         export default Table;
+```
