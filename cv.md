@@ -23,7 +23,7 @@ I use to work hard and learn at the same time because I agree with the quote fro
 - Photoshop
 
 ## Education
-I finished The Rolling Scopes School 2018-Q3.  
+I finished The Rolling Scopes School 2018-Q3.\
 My educational projects:  
 * [rss-mentor-dashboard](https://juliamv.github.io/rss-mentor-dashboard/)
 * [game](https://juliamv.github.io/game/)
@@ -31,7 +31,7 @@ My educational projects:
 * [markup](https://juliamv.github.io/markup/)
 
 ## English level
-A2  
+A2\
 I practice English while reading articles, watching videos and online courses. Also, I took lessons with a tutor and use Lingualeo application
 
 ## Code examples
