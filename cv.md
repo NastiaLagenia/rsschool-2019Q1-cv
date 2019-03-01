@@ -6,7 +6,8 @@
 
 ## Summary
 I chose front-end development because I see the results of my work and there is a lot of information about it. I want to be a good specialist and nothing else. 
-I use to work hard and learn at the same time because I agree with the quote from Alice in Wonderland by Lewis Carroll: We must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that.
+I use to work hard and learn at the same time because I agree with the quote from Alice in Wonderland by Lewis Carroll: 
+> We must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that.
 
 
 ## Skills
@@ -21,11 +22,11 @@ I use to work hard and learn at the same time because I agree with the quote fro
 
 ## Education
 I finished The Rolling Scopes School 2018-Q3.
-My educational projects:
-[rss-mentor-dashboard](https://juliamv.github.io/rss-mentor-dashboard/)
-[game](https://juliamv.github.io/game/)
-[youtube-client](https://juliamv.github.io/youtube-client/)
-[markup](https://juliamv.github.io/markup/)
+My educational projects:  
+* [rss-mentor-dashboard](https://juliamv.github.io/rss-mentor-dashboard/)
+* [game](https://juliamv.github.io/game/)
+* [youtube-client](https://juliamv.github.io/youtube-client/)
+* [markup](https://juliamv.github.io/markup/)
 
 ## English level
 A2
