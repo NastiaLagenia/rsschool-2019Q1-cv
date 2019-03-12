@@ -115,12 +115,10 @@ footer::before {
 }
 
 .header-photo {
+  border: 1px solid var(--line-color);
+  border-radius: 50%;
   transform: rotate(-45deg) scale(1.1);
-  filter: grayscale(100);
-}
-
-.header-photo:hover {
-  filter: grayscale(0);
+  filter: brightness(105%) hue-rotate(350deg);
 }
 
 .header-main-title {
