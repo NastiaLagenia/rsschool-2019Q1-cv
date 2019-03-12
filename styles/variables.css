@@ -1,0 +1,9 @@
+:root {
+  --bg-color: hsl(216, 2%, 40%);
+  --page-color: hsl(216, 2%, 95%);
+  --line-color: hsl(222, 14%, 35%);
+  --text-color: hsl(220, 13%, 18%);
+  --figure-color-1: hsl(193, 95%, 68%);
+  --figure-color-2: hsl(73, 95%, 68%);
+  --figure-color-3: hsl(0, 95%, 68%);
+}
