@@ -7,10 +7,14 @@ body {
 }
 
 body {
+  padding: 5vw 0;
+
   font-family: "Roboto", sans-serif;
   color: var(--text-color);
 
   background-color: var(--bg-color);
+
+  user-select: none;
 }
 
 .container {
@@ -265,5 +269,11 @@ footer::before {
 @media screen and (max-width: 593px) {
   .header-text-wrapper {
     padding-top: 30px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  body {
+    padding: 0;
   }
 }
